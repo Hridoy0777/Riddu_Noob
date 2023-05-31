@@ -1,0 +1,7 @@
+rm -rf Riddu_Noob
+
+git clone https://github.com/Hridoy0777/Riddu_Noob
+
+cd Riddu_Noob
+
+python Noob-X
